@@ -1,6 +1,6 @@
-## Variable description
+# Variable description
 
-# Descriptive variable names:
+## Descriptive variable names:
 
 1.  Leading t or f is based on time or frequency measurements.
 2.	Body = related to body movement.
