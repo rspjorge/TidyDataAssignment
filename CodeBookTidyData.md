@@ -2,7 +2,7 @@
 
 # Descriptive variable names:
 
-1.      leading t or f is based on time or frequency measurements.
+1.  Leading t or f is based on time or frequency measurements.
 2.	Body = related to body movement.
 3.	Gravity = acceleration of gravity
 4.	Acc = accelerometer measurement
