@@ -2,7 +2,7 @@
 Getting and Cleaning Data Course Project - Coursera
 
 ## Modifications description
-To perforam the modifications, dplyr, data.table and tidyr libraries were used.  
+To perform the modifications, dplyr, data.table and tidyr libraries were used. The main steps are described below, but a detailed description is available within the run_analysis.md file.   
 
 ### Download
 Script to download the zip file with all necessary text files from the following url:
@@ -20,5 +20,3 @@ Enter name of activity into dataTable
 ### Data set appropriately labeled with descriptive variable names. 
 
 ### From the the previous steps, a second, independent tidy data set was created, with the average of each variable for each activity and each subject.
-
-#### *Detailed description is available within the run_analysis.md file
